@@ -1,6 +1,6 @@
 # Predection-using-Clustering-algorithm-s
 
-"iris" is the dataset used.
+"Iris" is the dataset used.
 
 "Clustering algorithm's on iris data" is the python code in which the clustering algorithm's like K-means and DBSCAN are used and plots are drawn for better understanding.
 
